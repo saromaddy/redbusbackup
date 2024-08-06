@@ -1,0 +1,5 @@
+pandas
+streamlit
+mysql-connector-python
+plotly
+pybase64
